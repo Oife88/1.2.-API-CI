@@ -11,10 +11,9 @@
       "currency"
     ],
     "additionalProperties": false,
-    "patternProperties": {
-      "currency": {
-        "enum": ["RUB", "USD"]
-      }
+    "currency": {
+      "enum": ["RUB", "USD"]
+
     },
     "properties": {
       "id": {
