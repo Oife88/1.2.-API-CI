@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/bar66anis377x179?svg=true)](https://ci.appveyor.com/project/Oife88/api-ci)
+[![Build status](https://ci.appveyor.com/api/projects/status/d3q4cyvkbm9qtd2u?svg=true)](https://ci.appveyor.com/project/Oife88/1-2-api-ci)
